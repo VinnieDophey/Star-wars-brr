@@ -1,0 +1,47 @@
+
+#root {
+  max-width: 1280px;
+  /* margin: 0 auto; */
+  padding: 2rem;
+  text-align: center;
+  
+  color: yellow
+}
+.Movies{
+  max-width: 20%;
+  box-shadow: 0px 10px -14px 14px #FFF;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.774);
+  margin-top: 10%;
+  border-radius: 25px;
+  margin-right: 2%
+}
+
+.movieContainer{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5%;
+  width: 100vw;
+  margin: 0;
+  justify-content: center;
+  
+}
+.btn{
+  margin-left: 50%;
+}
+/* .logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.card {
+  padding: 2em;
+} */
